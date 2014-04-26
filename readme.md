@@ -37,6 +37,7 @@ As of right now, there are several:
 2.  There hasn't been much consideration given to they styling of the modal display.  It may not work very well with your theme.
 3.  There is absolutely no customization options nor settings for this plugin.  If you need options, please ask and I will do my best to implement that.
 ## Screenshots ##
+
 ###1. The panel that appears when your comment form comes in to view###
 ![The panel that appears when your comment form comes in to view](http://s-plugins.wordpress.org/kittens-for-comments/trunk/screenshot-1.png)
 
