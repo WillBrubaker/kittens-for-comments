@@ -1,10 +1,10 @@
 # Kittens for Comments #
-**Contributors:** willthewebmechanic  
-**Tags:** comments, blog  
-**Requires at least:** 3.9  
-**Tested up to:** 3.9  
-**Stable tag:** 3.0  
-**License:** GPLv3  
+**Contributors:** willthewebmechanic
+**Tags:** comments, blog
+**Requires at least:** 3.9
+**Tested up to:** 4.3
+**Stable tag:** 3.1
+**License:** GPLv3
 
 Encourages your readers to leave comments with the promise of a kitten picture.  Who doesn't love kittens?
 
@@ -47,6 +47,11 @@ As of right now, there are several:
 
 
 ## Changelog ##
+### 3.1 ###
+1. Tested against WordPress 4.3-RC2
+2. Removed spammy links
+3. PHP warning fix
+
 ### 3.0 ###
 code cleaned up, verified compatiblity with WordPress 3.9 and now has its own place in the admin menu.
 ### 2.0 ###
