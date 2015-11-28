@@ -2,8 +2,8 @@
 Contributors: willthewebmechanic
 Tags: comments, blog
 Requires at least: 3.9
-Tested up to: 4.3
-Stable tag: 3.0.1
+Tested up to: 4.4
+Stable tag: 3.0.2
 License: GPLv3
 
 Encourages your readers to leave comments with the promise of a kitten picture.  Who doesn't love kittens?
@@ -42,6 +42,12 @@ As of right now, there are several:
 2. Kitten!
 
 == Changelog ==
+
+= 3.0.2 =
+1. Tested agaist WordPress 4.4
+2. updated external assets
+3. change loading of CSS/JavaScript for SCRIPT_DEBUG
+4. minified CSS & JavaScript
 
 = 3.0.1 =
 1. Tested against WordPress 4.3-RC2
