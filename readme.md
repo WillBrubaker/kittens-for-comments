@@ -3,7 +3,7 @@
 **Tags:** comments, blog
 **Requires at least:** 3.9
 **Tested up to:** 4.3
-**Stable tag:** 3.1
+**Stable tag:** 3.0.1
 **License:** GPLv3
 
 Encourages your readers to leave comments with the promise of a kitten picture.  Who doesn't love kittens?
@@ -47,7 +47,7 @@ As of right now, there are several:
 
 
 ## Changelog ##
-### 3.1 ###
+### 3.0.1 ###
 1. Tested against WordPress 4.3-RC2
 2. Removed spammy links
 3. PHP warning fix
